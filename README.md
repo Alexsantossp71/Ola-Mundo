@@ -1,2 +1,3 @@
-# Ola Mundo
- teste de git
+# Olá, Mundo!
+
+Este é meu primeiro repositório para aprender a usar o Git e o GitHub.
